@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+#  But did you pay the green price?
+
+We live well, but on credit. The green price is payment in full. But what is it, and how do we pay it?
